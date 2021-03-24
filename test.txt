@@ -1,1 +1,3 @@
 Ini untuk tugas devops
+
+tugasnya yaitu membuat git
